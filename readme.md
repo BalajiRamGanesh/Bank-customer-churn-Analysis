@@ -1,6 +1,6 @@
 # Customer Churn Analysis Project  
 
-The Customer Churn Analysis Project focuses on understanding the reasons behind customer churn in the banking sector. By analyzing customer data, the project aims to identify trends and factors that lead to churn, providing insights that can help the bank retain customers.
+The Customer Churn Analysis Project focuses on understanding the reasons behind customer churn in the banking sector. By analyzing customer data, the project aims to identify trends and factors that lead to churn. Provides insights that can help the bank retain customers.
 
 ## Table of Contents 
 
@@ -56,7 +56,7 @@ The dataset contains 10,000 rows and 17 columns, and includes information on var
 ## Dashboard
 
 
-![Dashboard Image](https://github.com/BalajiRamGanesh/Bank-customer-churn-analysis/blob/8ba9fec90b74c4dec747dfcde7b55d762d1df527/Bank_Customer_Churn_Dashboard.png?raw=true)
+![Dashboard Image](https://github.com/BalajiRamGanesh/Bank-customer-churn-Analysis/blob/main/Bank_Customer_Churn_Dashboard.png?raw=true)
 ## Insights
 
 - Nearly half of the customers are inactive, with over 90% purchasing only 1 or 2 products.  
